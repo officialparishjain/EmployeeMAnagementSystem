@@ -17,6 +17,10 @@ The Employee Management System (EMS) is a web-based application that allows HR (
 - Attendance Tracking: HR personnel can mark attendance for employees and track their attendance history.
 - Reports Generation: HR personnel can generate attendance reports for individual employees.
 - Data Validation: Input data is validated using validation annotations to ensure data integrity.
+- Excel Report Generation: Experience the power of data analysis with our advanced feature that allows HR personnel to generate attendance reports for individual employees. These reports are dynamically generated in Excel format, offering a visually appealing representation of attendance data.
+
+  
+
 
 ## Getting Started
 
