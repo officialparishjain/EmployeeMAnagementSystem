@@ -17,6 +17,11 @@ public class EmployeeController {
     EmployeeService employeeService;
 
     // GET ALL EMPLOYEES
+
+    @GetMapping(value = "/check")
+    public String check(){
+        return "Checked";
+    }
     @GetMapping(value = "/getAll")
     public ResponseEntity<List<Employee>> getAllEmployee(@RequestParam String email, @RequestParam String token){
 
